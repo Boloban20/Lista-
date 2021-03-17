@@ -1,17 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="316" tvg-id="Nick" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/40aWeBD.png",Canal Nickelodeon
+#EXTINF:-1 tvg-chno="316" tvg-id="Nick" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/40aWeBD.png",Nickelodeon
 http://tvpremiumhd.club/lista-gratuita/183003/tv/live.php?id=2596
-#EXTINF:-1 tvg-chno="47" tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="https://i.imgur.com/FWTfazT.png", Canal Telemundo
+#EXTINF:-1 tvg-chno="47" tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="https://i.imgur.com/FWTfazT.png",Telemundo
 http://tvpremiumhd.club/lista-gratuita/183003/tv/live.php?id=2199
-#EXTINF:-1 tvg-id="Fox Sports" tvg-name:"Fox Sports" tvg-logo="fox-sports-logo-1.png",Canal Fox Sports
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name:"Fox Sports" tvg-logo="fox-sports-logo-1.png",Fox Sports
 http://extremo.dyndns.ws:25461/live/lety/lety/3053.ts
-#EXTINF:-1 tvg-id="DE PELICULA CLASICO" tvg-name="CINE: DE PELICULA CLÁSICO" tvg-logo="http://puu.sh/reQVf/4dc9bf5f4d.png",CINE: DE PELICULA CLÁSICO
+#EXTINF:-1 tvg-id="DE PELICULA CLASICO" tvg-name="DE PELICULA CLÁSICO" tvg-logo="http://puu.sh/reQVf/4dc9bf5f4d.png",DE PELICULA CLÁSICO
 http://tvpremiumhd.club/lista-gratuita/183003/tv/live.php?id=2231
-#EXTINF:-1 tvg-ID="DEPORTES: WWE HD" tvg-name="DEPORTES: WWE HD" tvg-logo="https://i.imgur.com/pegoDNs.jpg",WWE HD
+#EXTINF:-1 tvg-ID="DEPORTES: WWE HD" tvg-name="WWE HD" tvg-logo="https://i.imgur.com/pegoDNs.jpg",WWE HD
 http://tvpremiumhd.club/lista-gratuita/183003/tv/live.php?id=1125
-#EXTINF:-1 tvg-ID="USA: TELEMUNDO USA" tvg-name="PR: TELEMUNDO USA" tvg-logo="https://i.imgur.com/FWTfazT.png" tvg-country="usa",PR: TELEMUNDO
+#EXTINF:-1 tvg-ID="USA: TELEMUNDO USA" tvg-name="TELEMUNDO USA" tvg-logo="https://i.imgur.com/FWTfazT.png" tvg-country="usa",TELEMUNDO
 http://tvpremiumhd.club/lista-gratuita/183003/tv/live.php?id=2203
 #EXTINF:-1 tvg-id="UNIVISION 41" tvg-name="Univision" 
 http://extremo.dyndns.ws:25461/live/lety/lety/1446.ts
-#EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="Fox Sports 2" tvg-logo="https://seeklogo.com/vector-logo/369602/fox-sports-2"
-http://extremo.dyndns.ws:25461/live/lety/lety/3052.ts
