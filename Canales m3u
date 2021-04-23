@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="316" tvg-id="Nick" tvg-name="Nickelodeon" tvg-logo="https://i.imgur.com/40aWeBD.png",Nickelodeon
-http://soloendragonsfeel.applive.online/live/vernickelones9a7699e72b5a/index.m3u8
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 #EXTINF:-1 tvg-chno="47" tvg-id="Telemundo" tvg-name="Telemundo" tvg-logo="https://i.imgur.com/FWTfazT.png",Telemundo
-fso36.streamhoster.com/lv_telemundo51/_definst_/broadcast1/playlist.m3u8
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
 #EXTINF:-1 tvg-id="Fox Sports" tvg-name:"Fox Sports" tvg-logo="fox-sports-logo-1.png",Fox Sports
 http://extremo.dyndns.ws:25461/live/lety/lety/3053.ts
 #EXTINF:-1 tvg-id="De Película Clásico" tvg-name="De Película Clásico" tvg-logo="https://logos.fandom.com/wiki/De_Pel%C3%ADcula_Cl%C3%A1sico?file=DPel%C3%ADculaCl%C3%A1sico_2021.svg#2021-present",De Película Clásico
